@@ -1,0 +1,11 @@
+#navBar{
+    background-color: bisque;
+    width:100vw;
+    height: 10vh;
+    display: flex;
+    justify-content:space-evenly;
+}
+#BTNnavbar{
+    flex-direction: row;
+    height: 10vh;
+}
