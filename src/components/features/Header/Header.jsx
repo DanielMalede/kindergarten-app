@@ -1,7 +1,7 @@
 import "./Header.css";
 import React from "react";
 import {Link } from 'react-router-dom';
-const pages=["Home","Layers","Techers","ParentsCommittee","Contact"]
+const pages=["Home","Classes","Teachers","ParentsCommittee","Contact"]
 
 
 function Header() {
