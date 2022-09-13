@@ -15,5 +15,6 @@ export{
     Teachers,
     Classes,
     ParentsCommittee,
-    NotFound
+    NotFound,
+
 }
